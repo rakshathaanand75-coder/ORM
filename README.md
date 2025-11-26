@@ -7,7 +7,7 @@ To develop a Django Application to store and retrieve data from a E-Commerce Web
 
 
 ## ENTITY RELATIONSHIP DIAGRAM
-~~~~~
+
 
 
 
